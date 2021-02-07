@@ -1,0 +1,29 @@
+body{
+  overflow: hidden;
+}
+
+.margin{
+    margin-top: 250px;
+}
+
+.material-icons{
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.btn{
+    width: 100%;
+}
+
+.table{
+    margin-top: 80px;
+}
+
+.margin-top{
+  margin: 20px;
+}
+
+.h1{
+border-bottom: 1px solid black;
+padding-bottom: 10px;
+}

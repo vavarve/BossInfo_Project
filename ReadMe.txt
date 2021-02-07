@@ -1,0 +1,7 @@
+This is the project folder. It is written in PHP, SQL, HTML, CSS and JavaScript. I used XAMPP as a lockal server to run PHP and queries to the database. I created two admin accounts, for the admin login:
+
+username: johndoe, password: 1234
+username: janedoe, password: 1234
+
+Download the sql file boss_info.sql and import it in your database so you can run it.
+
